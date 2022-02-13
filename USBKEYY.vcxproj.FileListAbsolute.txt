@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\USBKEYY\Release\USBKEYY.MyForm.resources
+C:\Users\Admin\source\repos\USBKEYY\Release\USBKEYY.vcxproj.GenerateResource.cache
+C:\Users\Admin\source\repos\USBKEYY\Release\USBKEYY.exe
